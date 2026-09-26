@@ -4,12 +4,12 @@ This project is an Excel dashboard created to analyze bike purchase data and und
 Tech Stack
 The main tools and techniques used in this project are:
 
-📗 Microsoft Excel – Main tool used for data analysis and dashboard creation.
-🧹 Data Cleaning – Used to identify and organize the data before analysis.
-📊 Pivot Tables – Used to summarize and analyze the bike purchase data.
-📈 Charts & Visualizations – Used to present customer and purchase trends visually.
-🎛️ Slicers – Used to interactively filter the dashboard and explore different customer groups.
-🔢 Excel Formulas – Used for calculations and data preparation.
+*📗 Microsoft Excel – Main tool used for data analysis and dashboard creation.
+*🧹 Data Cleaning – Used to identify and organize the data before analysis.
+*📊 Pivot Tables – Used to summarize and analyze the bike purchase data.
+*📈 Charts & Visualizations – Used to present customer and purchase trends visually.
+*🎛️ Slicers – Used to interactively filter the dashboard and explore different customer groups.
+*🔢 Excel Formulas – Used for calculations and data preparation.
 
 My Role
 -Followed the project workflow from the reference tutorial and implemented it in Excel.
