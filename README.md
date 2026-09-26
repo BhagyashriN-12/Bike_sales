@@ -1,7 +1,7 @@
 # Bike_sales
 This project is an Excel dashboard created to analyze bike purchase data and understand customer purchasing patterns. The dashboard uses charts, filters, and summary information to explore factors such as customer demographics, income, age, commute distance, and bike purchase decisions.
 
-Tech Stack
+## Tech Stack
 The main tools and techniques used in this project are:
 - 📗 **Microsoft Excel** – Main tool used for data analysis and dashboard creation.
 
@@ -38,12 +38,20 @@ The main tools and techniques used in this project are:
 📊Interactive Bike Purchase Analysis Dashboard
 
 👥 Analysis based on customer demographics
+
 💰 Income-wise bike purchase analysis
+
 🚲 Comparison of bike purchasers and non-purchasers
+
 🧑‍🤝‍🧑 Analysis based on gender and marital status
+
 🎓 Analysis based on education and occupation
+
 🚗 Commute distance analysis
+
 🎛️ Interactive slicers and filters
+
 📈 Charts and Pivot Tables for easy understanding of the data
-📋 **Clean and organized dashboard layout**
+
+📋 Clean and organized dashboard layout
 
